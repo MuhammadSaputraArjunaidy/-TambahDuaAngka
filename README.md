@@ -307,3 +307,5 @@ Fitur utama aplikasi ini meliputi:
 
 
 ## Screenshot
+
+![image](https://github.com/user-attachments/assets/4ee70e45-d9d0-488b-bd55-ceaa682fb67a)
