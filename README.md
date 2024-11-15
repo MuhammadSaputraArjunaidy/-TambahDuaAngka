@@ -4,19 +4,18 @@
 
 
 # Deskripsi
-Aplikasi ini merupakan aplikasi pertambahan dua angka dengan menggunakan komponen JFrame  untuk membangun antarmuka pengguna yang interaktif. Pengguna dapat memasukkan angka yang ingin di tambahkan melalui JTextField kemudian untuk mengetahui hasil dari angka yang sudah di memasukkan, pengguna dapat menekan tombol JButton yang bertuliskan "Tambah" dan terdapat tombol "Hapus" untuk menghapus angka dan ada tombol "keluar" untuk keluar dari aplikasi
-## Features
 
-Fitur utama aplikasi ini meliputi:
+Aplikasi ini merupakan aplikasi pertambahan dua angka dengan menggunakan komponen JFrame untuk membangun antarmuka pengguna yang interaktif. Pengguna dapat memasukkan angka yang ingin di tambahkan melalui JTextField kemudian untuk mengetahui hasil dari angka yang sudah di memasukkan, pengguna dapat menekan tombol JButton yang bertuliskan "Tambah" dan terdapat tombol "Hapus" untuk menghapus angka dan ada tombol "keluar" untuk keluar dari aplikasi
+# Features
+
+Berikut adalah deskripsi fitur-fitur utama aplikasi ini:
+
 - Input Dua Angka: Pengguna dapat memasukkan dua angka pada kolom input yang tersedia.
 - Tombol Tambah: Menghitung dan menampilkan hasil penjumlahan dari dua angka yang diinput.
 - Tombol Hapus: Menghapus semua input yang ada di kolom input dan hasil, serta mengembalikan fokus ke kolom input pertama.
-- Tombol Keluar: Menutup aplikasi.
-
-
-        # Code
-
-```
+- Tombol Keluar: Menutup aplikasi. 
+ # Source Code
+ ```java
         import javax.swing.JOptionPane;
 
         /*
@@ -296,9 +295,12 @@ Fitur utama aplikasi ini meliputi:
             // End of variables declaration                   
         }
 
-        ```
+```
 
-## Authors
+
+
+
+# Authors
 
 - MuhammadSaputraArjunaidy
 - 2210010300
@@ -306,6 +308,6 @@ Fitur utama aplikasi ini meliputi:
 - [@MuhammadSaputraArjunaidy](https://www.github.com/MuhammadSaputraArjunaidy)
 
 
-## Screenshot
+#  Screenshot
 
 ![image](https://github.com/user-attachments/assets/4ee70e45-d9d0-488b-bd55-ceaa682fb67a)
